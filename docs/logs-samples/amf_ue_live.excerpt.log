@@ -1,0 +1,41 @@
+# excerpt of amf_ue_live.log (first 40 lines, redacted)
+   |  Index |     5GMM State     |                IMSI/SUPI               |        GUTI        |   RAN UE NGAP ID   |   AMF UE NGAP ID   |        PLMN        |       Cell Id      |
+   |    1   |   5GMM-REGISTERED  |             001010000000001            |00101010041378073494|        0x01        |        0x0B        |       001,01       |      0000e014e     |
+   |    2   |   5GMM-REGISTERED  |             001010000000002            |00101010041400914281|        0x02        |        0x0C        |       001,01       |      0000e014e     |
+   |    3   |   5GMM-REGISTERED  |             001010000000003            |00101010041264064311|        0x03        |        0x0D        |       001,01       |      0000e014e     |
+   |  Index |     5GMM State     |                IMSI/SUPI               |        GUTI        |   RAN UE NGAP ID   |   AMF UE NGAP ID   |        PLMN        |       Cell Id      |
+   |    1   |   5GMM-REGISTERED  |             001010000000001            |00101010041378073494|        0x01        |        0x0B        |       001,01       |      0000e014e     |
+   |    2   |   5GMM-REGISTERED  |             001010000000002            |00101010041400914281|        0x02        |        0x0C        |       001,01       |      0000e014e     |
+   |    3   |   5GMM-REGISTERED  |             001010000000003            |00101010041264064311|        0x03        |        0x0D        |       001,01       |      0000e014e     |
+   |  Index |     5GMM State     |                IMSI/SUPI               |        GUTI        |   RAN UE NGAP ID   |   AMF UE NGAP ID   |        PLMN        |       Cell Id      |
+   |    1   |   5GMM-REGISTERED  |             001010000000001            |00101010041378073494|        0x01        |        0x0B        |       001,01       |      0000e014e     |
+   |    2   |   5GMM-REGISTERED  |             001010000000002            |00101010041400914281|        0x02        |        0x0C        |       001,01       |      0000e014e     |
+   |    3   |   5GMM-REGISTERED  |             001010000000003            |00101010041264064311|        0x03        |        0x0D        |       001,01       |      0000e014e     |
+   |  Index |     5GMM State     |                IMSI/SUPI               |        GUTI        |   RAN UE NGAP ID   |   AMF UE NGAP ID   |        PLMN        |       Cell Id      |
+   |    1   |   5GMM-REGISTERED  |             001010000000001            |00101010041378073494|        0x01        |        0x0B        |       001,01       |      0000e014e     |
+   |    2   |   5GMM-REGISTERED  |             001010000000002            |00101010041400914281|        0x02        |        0x0C        |       001,01       |      0000e014e     |
+   |    3   |   5GMM-REGISTERED  |             001010000000003            |00101010041264064311|        0x03        |        0x0D        |       001,01       |      0000e014e     |
+   |  Index |     5GMM State     |                IMSI/SUPI               |        GUTI        |   RAN UE NGAP ID   |   AMF UE NGAP ID   |        PLMN        |       Cell Id      |
+   |    1   |   5GMM-REGISTERED  |             001010000000001            |00101010041378073494|        0x01        |        0x0B        |       001,01       |      0000e014e     |
+   |    2   |   5GMM-REGISTERED  |             001010000000002            |00101010041400914281|        0x02        |        0x0C        |       001,01       |      0000e014e     |
+   |    3   |   5GMM-REGISTERED  |             001010000000003            |00101010041264064311|        0x03        |        0x0D        |       001,01       |      0000e014e     |
+   |  Index |     5GMM State     |                IMSI/SUPI               |        GUTI        |   RAN UE NGAP ID   |   AMF UE NGAP ID   |        PLMN        |       Cell Id      |
+   |    1   |   5GMM-REGISTERED  |             001010000000001            |00101010041378073494|        0x01        |        0x0B        |       001,01       |      0000e014e     |
+   |    2   |   5GMM-REGISTERED  |             001010000000002            |00101010041400914281|        0x02        |        0x0C        |       001,01       |      0000e014e     |
+   |    3   |   5GMM-REGISTERED  |             001010000000003            |00101010041264064311|        0x03        |        0x0D        |       001,01       |      0000e014e     |
+   |  Index |     5GMM State     |                IMSI/SUPI               |        GUTI        |   RAN UE NGAP ID   |   AMF UE NGAP ID   |        PLMN        |       Cell Id      |
+   |    1   |   5GMM-REGISTERED  |             001010000000001            |00101010041378073494|        0x01        |        0x0B        |       001,01       |      0000e014e     |
+   |    2   |   5GMM-REGISTERED  |             001010000000002            |00101010041400914281|        0x02        |        0x0C        |       001,01       |      0000e014e     |
+   |    3   |   5GMM-REGISTERED  |             001010000000003            |00101010041264064311|        0x03        |        0x0D        |       001,01       |      0000e014e     |
+   |  Index |     5GMM State     |                IMSI/SUPI               |        GUTI        |   RAN UE NGAP ID   |   AMF UE NGAP ID   |        PLMN        |       Cell Id      |
+   |    1   |   5GMM-REGISTERED  |             001010000000001            |00101010041378073494|        0x01        |        0x0B        |       001,01       |      0000e014e     |
+   |    2   |   5GMM-REGISTERED  |             001010000000002            |00101010041400914281|        0x02        |        0x0C        |       001,01       |      0000e014e     |
+   |    3   |   5GMM-REGISTERED  |             001010000000003            |00101010041264064311|        0x03        |        0x0D        |       001,01       |      0000e014e     |
+   |  Index |     5GMM State     |                IMSI/SUPI               |        GUTI        |   RAN UE NGAP ID   |   AMF UE NGAP ID   |        PLMN        |       Cell Id      |
+   |    1   |   5GMM-REGISTERED  |             001010000000001            |00101010041378073494|        0x01        |        0x0B        |       001,01       |      0000e014e     |
+   |    2   |   5GMM-REGISTERED  |             001010000000002            |00101010041400914281|        0x02        |        0x0C        |       001,01       |      0000e014e     |
+   |    3   |   5GMM-REGISTERED  |             001010000000003            |00101010041264064311|        0x03        |        0x0D        |       001,01       |      0000e014e     |
+   |  Index |     5GMM State     |                IMSI/SUPI               |        GUTI        |   RAN UE NGAP ID   |   AMF UE NGAP ID   |        PLMN        |       Cell Id      |
+   |    1   |   5GMM-REGISTERED  |             001010000000001            |00101010041378073494|        0x01        |        0x0B        |       001,01       |      0000e014e     |
+   |    2   |   5GMM-REGISTERED  |             001010000000002            |00101010041400914281|        0x02        |        0x0C        |       001,01       |      0000e014e     |
+   |    3   |   5GMM-REGISTERED  |             001010000000003            |00101010041264064311|        0x03        |        0x0D        |       001,01       |      0000e014e     |

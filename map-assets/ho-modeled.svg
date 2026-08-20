@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Modeled A3 handover">
+  <!-- Distinct purple diamond — not a gray circle vertex. -->
+  <path d="M32 6 L58 32 L32 58 L6 32 Z" fill="#A64AC9" stroke="#F5F5F5" stroke-width="4" stroke-linejoin="round"/>
+  <circle cx="32" cy="32" r="6" fill="#F5F5F5"/>
+</svg>

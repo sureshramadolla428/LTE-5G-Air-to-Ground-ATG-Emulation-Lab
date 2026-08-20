@@ -1,0 +1,15 @@
+﻿NOTICE
+
+Copyright (c) 2026 Suresh Ramadolla
+
+The original content of THIS repository is All Rights Reserved.
+All Rights Reserved. This public repository is a showcase; see LICENSE. No permission is granted to use, copy, modify, or distribute any part of this repository without prior written consent.
+
+Third-party open-source components (if any) remain under their own licenses, which are listed below or in their respective NOTICE/LICENSE files. This All Rights Reserved notice does not alter third-party license obligations.
+
+Original docs and Path-A2G confs in this pack: All Rights Reserved (see LICENSE), Copyright (c) 2026 Suresh Ramadolla.
+
+OpenAirInterface is a separate upstream project with its own license. This pack does not vendor the OAI tree.
+
+3GPP / ETSI specifications are copyrighted by their owners and are **not** included. Link to official SDO portals; do not commit PDFs from `docs/3gpp-specifications/`.
+

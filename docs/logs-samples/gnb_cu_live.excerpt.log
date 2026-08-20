@@ -1,0 +1,41 @@
+# excerpt of gnb_cu_live.log (first 40 lines, redacted)
+[0m[GNB_APP] F1AP: gNB_CU_id[0] 3584
+[0m[GNB_APP] F1AP: gNB_CU_name[0] cu-rfsim
+[0m[UTIL]   threadCreate() for TASK_NGAP: creating thread with affinity ffffffff, priority 50
+[0m[NGAP]   Registered new gNB[0] and macro gNB id 3584
+[0m[NGAP]   [gNB 0] check the amf registration state
+[0m[NR_RRC] Entering main loop of NR_RRC message task
+[0m[32m[NGAP]   Send NGSetupRequest to AMF
+[0m[NGAP]   3584 -> 0000e000
+[0m[NGAP]   Supported PLMN 0: MCC=001 MNC=01
+[0m[NGAP]   Supported slice (PLMN 0): SST=0x01 SD=000
+[0m[NGAP]   reconnected to AMF
+[0m[32m[NGAP]   Received NGSetupResponse from AMF
+[0m[NR_RRC] Accepting new CU-UP ID 3584 name cu-rfsim (assoc_id -1)
+[0m[F1AP]   Starting F1AP at CU
+[0m[GNB_APP] [gNB 0] Received NGAP_REGISTER_GNB_CNF: associated AMF 1
+[0m[F1AP]   F1AP_CU_SCTP_REQ(create socket) for x.x.x.x len 10
+[0m[NR_RRC] Received F1 Setup Request from gNB_DU 3584 (du-rfsim) on assoc_id 356
+[0m[NR_RRC] Accepting DU 3584 (du-rfsim) (RRC version 17.3.0)
+[0m[NR_RRC] Added cell 12345678 to DU cells array (total cells = 1)
+[0m[NR_RRC] DU 3584: Added cell 12345678
+[0m[NR_RRC] DU 3584 (du-rfsim): sending F1 Setup Response
+[0m[NR_RRC] cell PLMN 001.01 Cell ID 12345678 is in service
+[0m[F1AP]   Received SCTP state 1 for assoc_id 356, removing endpoint
+[0m[NR_RRC] Removing cell 12345678 from DU cells array
+[0m[NR_RRC] Received F1 Setup Request from gNB_DU 3584 (du-rfsim) on assoc_id 358
+[0m[NR_RRC] Accepting DU 3584 (du-rfsim) (RRC version 17.3.0)
+[0m[NR_RRC] Added cell 12345678 to DU cells array (total cells = 1)
+[0m[NR_RRC] DU 3584: Added cell 12345678
+[0m[NR_RRC] DU 3584 (du-rfsim): sending F1 Setup Response
+[0m[NR_RRC] cell PLMN 001.01 Cell ID 12345678 is in service
+[0m[NR_RRC] Decoding CCCH: RNTI 3c48, payload_size 6
+[0m[32m[NR_RRC] [--] (cellID 0, UE ID 1 RNTI 3c48) Create UE context: CU UE ID 1 DU UE ID 15432 (rnti: 3c48, random ue id 26a65b50a8000000)
+[0m[NR_RRC] Adding new PCell (cell 12345678, assoc_id 358)
+[0m[32m[NR_RRC] [DL] (cellID bc614e, UE ID 1 RNTI 3c48) Send RRC Setup
+[0m[32m[NR_RRC] [UL] (cellID bc614e, UE ID 1 RNTI 3c48) Received RRCSetupComplete (RRC_CONNECTED reached)
+[0m[NGAP]   Selected PLMN in the NG Initial UE Message: MCC=001 MNC=01
+[0m[NGAP]   UE 1: Selected AMF 'OAI-AMF' (assoc_id 353) through selected PLMN MCC=001 MNC=01
+[0m[NGAP]   Create UE context (ID 1) for AMF 'OAI-AMF' (assoc_id 353)
+[0m[32m[NR_RRC] [DL] (cellID bc614e, UE ID 1 RNTI 3c48) Send DL Information Transfer [42 bytes]
+[0m[32m[NR_RRC] [UL] (cellID bc614e, UE ID 1 RNTI 3c48) Received RRC UL Information Transfer [24 bytes]

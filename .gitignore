@@ -1,0 +1,61 @@
+# Secrets and local env
+.env
+.env.local
+*.pem
+id_ed25519
+id_ed25519.pub
+ATG_SSH_KEY
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+*.egg-info/
+
+# Observability runtime
+atg-observability/data/cache/
+atg-observability/data/logs/
+!atg-observability/data/logs/.gitkeep
+atg-observability/data/qos/
+atg-observability/data/replay/
+!atg-observability/data/replay/.gitkeep
+*.parquet
+data/icao_tail_map.json
+data/raw_icao_mapping*
+
+# 3GPP / ETSI copies — do not publish
+docs/3gpp-specifications/**/*.pdf
+docs/3gpp-specifications/**/*.doc
+docs/3gpp-specifications/**/*.docx
+**/*.pdf
+
+# Logs and captures (keep sanitized public excerpts)
+*.log
+!docs/logs-samples/*.log
+*.pcap
+pcaps/
+
+# Editor / OneDrive
+agent-transcripts/
+.vscode/
+.idea/
+desktop.ini
+Thumbs.db
+~$*
+*.lnk
+
+# Docker volumes / junk
+prometheus_data/
+loki_data/
+postgis_data/
+grafana/data/
+
+# OS
+.DS_Store

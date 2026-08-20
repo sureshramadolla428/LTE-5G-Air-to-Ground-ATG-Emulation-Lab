@@ -1,0 +1,41 @@
+# excerpt of gnb_du0_live.log (first 40 lines, redacted)
+UE RNTI 7721 CU-UE-ID 3 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -43 (16 meas)
+UE 7721: dlsch_rounds 54144/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 16.2+1.2 dB), BLER 0.00000 MCS (0) 0 CCE fail 3
+UE 7721: ulsch_rounds 541150/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0 dB) NPRB 5 SNR 22.4 (+2.4) dB CCE fail 1
+UE 7721: MAC:    TX        1137815 RX       10825699 bytes
+UE RNTI 3c48 CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -43 (16 meas)
+UE 3c48: dlsch_rounds 85153/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 15.7+0.7 dB), BLER 0.00000 MCS (0) 0 CCE fail 46
+UE 3c48: ulsch_rounds 637748/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0 dB) NPRB 5 SNR 22.2 (+2.2) dB CCE fail 0
+UE 3c48: MAC:    TX        3107342 RX       15627262 bytes
+UE RNTI 2b27 CU-UE-ID 2 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -43 (16 meas)
+UE 2b27: dlsch_rounds 54211/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 16.2+1.2 dB), BLER 0.00000 MCS (0) 0 CCE fail 1
+UE 2b27: ulsch_rounds 541808/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0 dB) NPRB 5 SNR 22.3 (+2.3) dB CCE fail 2
+UE 2b27: MAC:    TX        1139232 RX       10838690 bytes
+UE RNTI 7721 CU-UE-ID 3 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -43 (16 meas)
+UE 7721: dlsch_rounds 54146/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 16.2+1.2 dB), BLER 0.00000 MCS (0) 0 CCE fail 3
+UE 7721: ulsch_rounds 541163/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0 dB) NPRB 5 SNR 22.0 (+2.0) dB CCE fail 1
+UE 7721: MAC:    TX        1137857 RX       10825959 bytes
+UE RNTI 3c48 CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -43 (16 meas)
+UE 3c48: dlsch_rounds 85155/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 15.7+0.7 dB), BLER 0.00000 MCS (0) 0 CCE fail 46
+UE 3c48: ulsch_rounds 637761/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0 dB) NPRB 5 SNR 21.8 (+1.8) dB CCE fail 0
+UE 3c48: MAC:    TX        3107384 RX       15627522 bytes
+UE RNTI 2b27 CU-UE-ID 2 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -43 (16 meas)
+UE 2b27: dlsch_rounds 54213/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 16.2+1.2 dB), BLER 0.00000 MCS (0) 0 CCE fail 1
+UE 2b27: ulsch_rounds 541821/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0 dB) NPRB 5 SNR 21.9 (+1.9) dB CCE fail 2
+UE 2b27: MAC:    TX        1139274 RX       10838950 bytes
+UE RNTI 7721 CU-UE-ID 3 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -43 (16 meas)
+UE 7721: dlsch_rounds 54147/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 16.2+1.2 dB), BLER 0.00000 MCS (0) 0 CCE fail 3
+UE 7721: ulsch_rounds 541176/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0 dB) NPRB 5 SNR 22.6 (+2.6) dB CCE fail 1
+UE 7721: MAC:    TX        1137878 RX       10826219 bytes
+UE RNTI 3c48 CU-UE-ID 1 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -43 (16 meas)
+UE 3c48: dlsch_rounds 85156/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 15.7+0.7 dB), BLER 0.00000 MCS (0) 0 CCE fail 46
+UE 3c48: ulsch_rounds 637774/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0 dB) NPRB 5 SNR 22.3 (+2.3) dB CCE fail 0
+UE 3c48: MAC:    TX        3107405 RX       15627782 bytes
+UE RNTI 2b27 CU-UE-ID 2 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -43 (16 meas)
+UE 2b27: dlsch_rounds 54214/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 16.2+1.2 dB), BLER 0.00000 MCS (0) 0 CCE fail 1
+UE 2b27: ulsch_rounds 541834/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0 dB) NPRB 5 SNR 22.5 (+2.5) dB CCE fail 2
+UE 2b27: MAC:    TX        1139295 RX       10839210 bytes
+UE RNTI 7721 CU-UE-ID 3 in-sync PH 48 dB PCMAX 20 dBm, average RSRP -43 (16 meas)
+UE 7721: dlsch_rounds 54148/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 16.2+1.2 dB), BLER 0.00000 MCS (0) 0 CCE fail 3
+UE 7721: ulsch_rounds 541188/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0 dB) NPRB 5 SNR 22.4 (+2.4) dB CCE fail 1
+UE 7721: MAC:    TX        1137899 RX       10826459 bytes

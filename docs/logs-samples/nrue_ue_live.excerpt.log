@@ -1,0 +1,41 @@
+# excerpt of nrue_ue_live.log (first 40 lines, redacted)
+    UL harq: 636166/0 avg code rate 0.1, avg bit/symbol 2.0, avg per TB: (nb RBs 8.1, nb symbols 12.7)
+[0m[NR_MAC] UE 0 RNTI 3c48 stats sfn: 512.8, cumulated bad DCI 0
+    DL harq: 84922/0
+    UL harq: 636179/0 avg code rate 0.1, avg bit/symbol 2.0, avg per TB: (nb RBs 8.1, nb symbols 12.7)
+[0m[NR_MAC] UE 0 RNTI 3c48 stats sfn: 640.8, cumulated bad DCI 0
+    DL harq: 84923/0
+    UL harq: 636192/0 avg code rate 0.1, avg bit/symbol 2.0, avg per TB: (nb RBs 8.1, nb symbols 12.7)
+[0m[NR_MAC] UE 0 RNTI 3c48 stats sfn: 768.8, cumulated bad DCI 0
+    DL harq: 84925/0
+    UL harq: 636204/0 avg code rate 0.1, avg bit/symbol 2.0, avg per TB: (nb RBs 8.1, nb symbols 12.7)
+[0m[NR_MAC] UE 0 RNTI 3c48 stats sfn: 896.8, cumulated bad DCI 0
+    DL harq: 84928/0
+    UL harq: 636223/0 avg code rate 0.1, avg bit/symbol 2.0, avg per TB: (nb RBs 8.1, nb symbols 12.7)
+[0m[NR_MAC] UE 0 RNTI 3c48 stats sfn: 0.8, cumulated bad DCI 0
+    DL harq: 84931/0
+    UL harq: 636242/0 avg code rate 0.1, avg bit/symbol 2.0, avg per TB: (nb RBs 8.1, nb symbols 12.7)
+[0m[NR_MAC] UE 0 RNTI 3c48 stats sfn: 128.8, cumulated bad DCI 0
+    DL harq: 84934/0
+    UL harq: 636258/0 avg code rate 0.1, avg bit/symbol 2.0, avg per TB: (nb RBs 8.1, nb symbols 12.7)
+[0m[NR_MAC] UE 0 RNTI 3c48 stats sfn: 256.8, cumulated bad DCI 0
+    DL harq: 84938/0
+    UL harq: 636277/0 avg code rate 0.1, avg bit/symbol 2.0, avg per TB: (nb RBs 8.1, nb symbols 12.7)
+[0m[NR_MAC] UE 0 RNTI 3c48 stats sfn: 384.8, cumulated bad DCI 0
+    DL harq: 84943/0
+    UL harq: 636302/0 avg code rate 0.1, avg bit/symbol 2.0, avg per TB: (nb RBs 8.1, nb symbols 12.7)
+[0m[NR_MAC] UE 0 RNTI 3c48 stats sfn: 512.8, cumulated bad DCI 0
+    DL harq: 84949/0
+    UL harq: 636330/0 avg code rate 0.1, avg bit/symbol 2.0, avg per TB: (nb RBs 8.1, nb symbols 12.7)
+[0m[NR_MAC] UE 0 RNTI 3c48 stats sfn: 640.8, cumulated bad DCI 0
+    DL harq: 84951/0
+    UL harq: 636343/0 avg code rate 0.1, avg bit/symbol 2.0, avg per TB: (nb RBs 8.1, nb symbols 12.7)
+[0m[NR_MAC] UE 0 RNTI 3c48 stats sfn: 768.8, cumulated bad DCI 0
+    DL harq: 84952/0
+    UL harq: 636355/0 avg code rate 0.1, avg bit/symbol 2.0, avg per TB: (nb RBs 8.1, nb symbols 12.7)
+[0m[NR_MAC] UE 0 RNTI 3c48 stats sfn: 896.8, cumulated bad DCI 0
+    DL harq: 84953/0
+    UL harq: 636368/0 avg code rate 0.1, avg bit/symbol 2.0, avg per TB: (nb RBs 8.1, nb symbols 12.7)
+[0m[NR_MAC] UE 0 RNTI 3c48 stats sfn: 0.8, cumulated bad DCI 0
+    DL harq: 84956/0
+    UL harq: 636387/0 avg code rate 0.1, avg bit/symbol 2.0, avg per TB: (nb RBs 8.1, nb symbols 12.7)
