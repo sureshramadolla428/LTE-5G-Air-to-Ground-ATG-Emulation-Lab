@@ -322,3 +322,4 @@ Created by **Suresh Ramadolla**.
 
 *Personal research and education project on OpenAirInterface. Software emulation of 5G ATG (ground BS â†” aircraft UE) â€” not an over-the-air system, and not affiliated with or endorsed by any operator or vendor.*
 
+
