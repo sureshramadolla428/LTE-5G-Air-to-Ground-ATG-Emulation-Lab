@@ -1,4 +1,4 @@
-﻿# LTE / 5G Air-to-Ground (ATG) Emulation Lab
+# LTE / 5G Air-to-Ground (ATG) Emulation Lab
 
 ### Ground base station â†” aircraft UE â€” OpenAirInterface RFsim (band n78, AWGN)
 
@@ -153,7 +153,7 @@ github-atg-lab/                 # This public pack (git root)
 
 OAI source and CN5G images live on the Ubuntu VM. Exporter, Docker Compose, and bring-up **scripts** stay in the sibling **private** folder:
 
-`C:\Users\sures\OneDrive\Desktop\LTE_5g_ATG_emulation_lab\github-atg-lab-private`
+`https://github.com/sureshramadolla428/ATG-5G-Emulation-Lab-scripts`
 
 Do not commit 3GPP PDFs.
 
@@ -252,7 +252,7 @@ less HONESTY.md
 less FLOW.md
 ```
 
-To run OAI + Docker observability, use the **private** scripts repo (`github-atg-lab-private`). High-level notes: [`docs/SETUP.md`](docs/SETUP.md).
+To run OAI + Docker observability, use the **private** scripts repo (`ATG-5G-Emulation-Lab-scripts`). High-level notes: [`docs/SETUP.md`](docs/SETUP.md).
 
 ---
 
@@ -284,7 +284,7 @@ This project is **not** a Streamlit app and is **not** deployed on Streamlit Com
 **What â€œdeployâ€ means here:**
 
 1. Push **this** pack to a **public** GitHub repo (see [`PUSH_TO_GITHUB.md`](PUSH_TO_GITHUB.md)).
-2. Keep exporter / Compose / full bring-up scripts in a **private** repo if you use `github-atg-lab-private`.
+2. Keep exporter / Compose / full bring-up scripts in a **private** repo if you use `ATG-5G-Emulation-Lab-scripts`.
 3. Run OAI + RFsim on Ubuntu; present Grafana locally.
 
 > Software emulation, not OTA. Do not describe the GitHub repo as a live ATG network.
@@ -321,5 +321,3 @@ Created by **Suresh Ramadolla**.
 ---
 
 *Personal research and education project on OpenAirInterface. Software emulation of 5G ATG (ground BS â†” aircraft UE) â€” not an over-the-air system, and not affiliated with or endorsed by any operator or vendor.*
-
-
